@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/boris/Downloads/postgresql-9.4.1212.jre7.jar"/>
+	<classpathentry kind="lib" path="/Users/boris/Documents/BAC/exemple_comics/lib/spring/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/boris/Documents/BAC/exemple_comics/lib/spring/spring-beans-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/boris/Documents/BAC/exemple_comics/lib/spring/spring-context-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/boris/Documents/BAC/exemple_comics/lib/spring/spring-core-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/boris/Documents/BAC/exemple_comics/lib/spring/spring-expression-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/boris/Documents/BAC/exemple_comics/lib/spring/spring-jdbc-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/boris/Documents/BAC/exemple_comics/lib/spring/spring-tx-4.1.2.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
